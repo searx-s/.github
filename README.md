@@ -1,1 +1,1 @@
-# .github
+Searx.s is a search engine that allows us to get results based on statistics. It can also be used as a HTML/JS framework, with a C file for normal modifications, and a C++ file for some advanced modifications. Have fun and play around with it!
